@@ -1,0 +1,75 @@
+# R = 26K
+
+Data loaded!
+Split performed!
+#Validation examples: 500
+#Testing examples: 498
+Points found alone: 0
+On the testing data, we report an accuracy of: 0.522088353414
+
+# R = 27k
+
+Data loaded!
+Split performed!
+#Validation examples: 500
+#Testing examples: 498
+Trained ANN classifier.
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+The optimal value of L found for this data was: 2 approximate nearest neighbors.
+Stored ANN classifier on disk.
+Points found alone: 0
+On the testing data, we report an accuracy of: 0.495983935743
+
+# R = 28k
+
+Data loaded!
+Split performed!
+#Validation examples: 500
+#Testing examples: 498
+Trained ANN classifier.
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+The optimal value of L found for this data was: 8 approximate nearest neighbors.
+Stored ANN classifier on disk.
+Points found alone: 0
+On the testing data, we report an accuracy of: 0.506024096386
+
+# R = 29k
+
+Data loaded!
+Split performed!
+#Validation examples: 500
+#Testing examples: 498
+Trained ANN classifier.
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+Points found alone: 0
+The optimal value of L found for this data was: 8 approximate nearest neighbors.
+Stored ANN classifier on disk.
+Points found alone: 0
+On the testing data, we report an accuracy of: 0.508032128514
+

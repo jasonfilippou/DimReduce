@@ -1,0 +1,24 @@
+Data loaded!
+Split performed!
+#Validation examples: 500
+#Testing examples: 500
+Randomly voted 0 times.
+Attained an accuracy of: 0.464 for a number of neighbors = 1 and a bucket width of 9.
+Randomly voted 0 times.
+Attained an accuracy of: 0.53 for a number of neighbors = 2 and a bucket width of 9.
+Randomly voted 0 times.
+Attained an accuracy of: 0.508 for a number of neighbors = 3 and a bucket width of 9.
+Randomly voted 0 times.
+Attained an accuracy of: 0.51 for a number of neighbors = 4 and a bucket width of 9.
+Randomly voted 0 times.
+Attained an accuracy of: 0.462 for a number of neighbors = 5 and a bucket width of 9.
+Randomly voted 0 times.
+Attained an accuracy of: 0.488 for a number of neighbors = 6 and a bucket width of 9.
+Randomly voted 0 times.
+Attained an accuracy of: 0.5 for a number of neighbors = 7 and a bucket width of 9.
+Randomly voted 0 times.
+Attained an accuracy of: 0.488 for a number of neighbors = 8 and a bucket width of 9.
+Randomly voted 0 times.
+Attained an accuracy of: 0.518 for a number of neighbors = 9 and a bucket width of 9.
+Randomly voted 0 times.
+Attained an accuracy of: 0.49 for a number of neighbors = 10 and a bucket width of 9.

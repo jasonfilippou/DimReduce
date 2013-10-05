@@ -1,0 +1,417 @@
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2013.5.6)  5 OCT 2013 00:07
+entering extended mode
+**C:/Users/Jason/code/DimReduce/ISOMAP/README.tex
+(C:/Users/Jason/code/DimReduce/ISOMAP/README.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+Requested font "cmr12" at 12.0pt
+ -> cmr12
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(C:\Users\Jason\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(C:\Users\Jason\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(C:\Users\Jason\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-global.def
+File: uni-global.def 2012/08/28 UCS: Unicode global data
+)
+\uc@secondtry=\count89
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks20
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks21
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks22
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 130.
+
+("C:\Program Files\MiKTeX 2.9\tex\xelatex\xetex-def\xetex.def"
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+)
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(C:\Users\Jason\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count102
+\lst@gtempboxa=\box28
+\lst@token=\toks25
+\lst@length=\count103
+\lst@currlwidth=\dimen114
+\lst@column=\count104
+\lst@pos=\count105
+\lst@lostspace=\dimen115
+\lst@width=\dimen116
+\lst@newlines=\count106
+\lst@lineno=\count107
+\lst@maxwidth=\dimen117
+
+(C:\Users\Jason\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count108
+\lst@skipnumbers=\count109
+\lst@framebox=\box29
+)
+(C:\Users\Jason\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks26
+)
+("C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexurl\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2004/03/15  ver 3.1  Verb mode for urls, etc.
+)
+(C:\Users\Jason\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(C:\Users\Jason\code\DimReduce\ISOMAP\README.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+
+(C:\Users\Jason\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+\c@lstlisting=\count110
+Requested font "cmr17" at 20.74pt
+ -> cmr17
+Requested font "cmr12" at 14.4pt
+ -> cmr12
+Requested font "cmmi12" at 14.4pt
+ -> cmmi12
+Requested font "cmsy10" at 14.4pt
+ -> cmsy10
+Requested font "cmex10" at 14.4pt
+ -> cmex10
+Requested font "cmex7" at 7.0pt
+ -> cmex7
+LaTeX Font Info:    Try loading font information for U+msa on input line 39.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+Requested font "msam10" at 14.4pt
+ -> msam10
+Requested font "msam10" at 10.0pt
+ -> msam10
+Requested font "msam7" at 7.0pt
+ -> msam7
+LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Requested font "msbm10" at 14.4pt
+ -> msbm10
+Requested font "msbm10" at 10.0pt
+ -> msbm10
+Requested font "msbm7" at 7.0pt
+ -> msbm7
+ [1
+
+]
+Requested font "cmbx12" at 12.0pt
+ -> cmbx12
+
+
+LaTeX Warning: Citation `Tenenbaum2000' on page 1 undefined on input line 46.
+
+
+LaTeX Warning: Citation `Tenenbaum2000' on page 1 undefined on input line 46.
+
+Requested font "cmr8" at 8.0pt
+ -> cmr8
+Requested font "cmr6" at 6.0pt
+ -> cmr6
+Requested font "cmmi12" at 12.0pt
+ -> cmmi12
+Requested font "cmmi8" at 8.0pt
+ -> cmmi8
+Requested font "cmmi6" at 6.0pt
+ -> cmmi6
+Requested font "cmsy10" at 12.0pt
+ -> cmsy10
+Requested font "cmsy8" at 8.0pt
+ -> cmsy8
+Requested font "cmsy6" at 6.0pt
+ -> cmsy6
+Requested font "cmex10" at 12.0pt
+ -> cmex10
+Requested font "cmex8" at 8.0pt
+ -> cmex8
+Requested font "cmex7" at 6.0pt
+ -> cmex7
+Requested font "msam10" at 12.0pt
+ -> msam10
+Requested font "msam10" at 8.0pt
+ -> msam10
+Requested font "msam7" at 6.0pt
+ -> msam7
+Requested font "msbm10" at 12.0pt
+ -> msbm10
+Requested font "msbm10" at 8.0pt
+ -> msbm10
+Requested font "msbm7" at 6.0pt
+ -> msbm7
+Requested font "cmtt12" at 12.0pt
+ -> cmtt12
+Requested font "cmtt8" at 8.0pt
+ -> cmtt8
+Requested font "cmtt8" at 6.0pt
+ -> cmtt8
+Requested font "cmex7" at 5.0pt
+ -> cmex7
+Requested font "msam5" at 5.0pt
+ -> msam5
+Requested font "msbm5" at 5.0pt
+ -> msbm5
+[1]
+Requested font "cmr17" at 17.28pt
+ -> cmr17
+Requested font "cmbx12" at 17.28pt
+ -> cmbx12
+Requested font "cmbx12" at 14.4pt
+ -> cmbx12
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 60.
+
+Requested font "cmti12" at 12.0pt
+ -> cmti12
+Requested font "cmr10" at 10.95pt
+ -> cmr10
+Requested font "cmtt10" at 10.95pt
+ -> cmtt10
+[1]
+
+LaTeX Warning: Citation `Tenenbaum2000' on page 2 undefined on input line 97.
+
+[2]
+
+LaTeX Warning: Citation `Cayton2005' on page 3 undefined on input line 123.
+
+File: figures/swissroll_data.eps Graphic file (type eps)
+<figures/swissroll_data.eps> [3]
+File: figures/swissroll_embedding_k=4.eps Graphic file (type eps)
+ <figures/swissroll_embedding_k=4.eps>
+File: figures/swissroll_barplot_k=4.eps Graphic file (type eps)
+
+<figures/swissroll_barplot_k=4.eps>
+File: figures/swissroll_embedding_k=6.eps Graphic file (type eps)
+ <figures/swissroll_embedding_k=6.eps>
+File: figures/swissroll_barplot_k=6.eps Graphic file (type eps)
+
+<figures/swissroll_barplot_k=6.eps>
+File: figures/swissroll_embedding_k=8.eps Graphic file (type eps)
+ <figures/swissroll_embedding_k=8.eps>
+File: figures/swissroll_barplot_k=8.eps Graphic file (type eps)
+
+<figures/swissroll_barplot_k=8.eps>
+File: figures/swissroll_embedding_k=10.eps Graphic file (type eps)
+ <figures/swissroll_embedding_k=10.eps>
+File: figures/swissroll_barplot_k=10.eps Graphic file (type eps)
+
+<figures/swissroll_barplot_k=10.eps> [4] [5]
+File: figures/sinusoid_data.eps Graphic file (type eps)
+ <figures/sinusoid_data.eps>
+File: figures/sinusoid_embedding_k=4.eps Graphic file (type eps)
+
+<figures/sinusoid_embedding_k=4.eps>
+File: figures/sinusoid_barplot_k=4.eps Graphic file (type eps)
+ <figures/sinusoid_barplot_k=4.eps>
+File: figures/sinusoid_embedding_k=6.eps Graphic file (type eps)
+
+<figures/sinusoid_embedding_k=6.eps>
+File: figures/sinusoid_barplot_k=6.eps Graphic file (type eps)
+ <figures/sinusoid_barplot_k=6.eps>
+File: figures/sinusoid_embedding_k=8.eps Graphic file (type eps)
+
+<figures/sinusoid_embedding_k=8.eps>
+File: figures/sinusoid_barplot_k=8.eps Graphic file (type eps)
+ <figures/sinusoid_barplot_k=8.eps>
+File: figures/sinusoid_embedding_k=10.eps Graphic file (type eps)
+
+<figures/sinusoid_embedding_k=10.eps>
+File: figures/sinusoid_barplot_k=10.eps Graphic file (type eps)
+ <figures/sinusoid_barplot_k=10.eps>
+
+LaTeX Warning: Citation `Tenenbaum2000' on page 6 undefined on input line 222.
+
+
+LaTeX Warning: Citation `Tenenbaum2000' on page 6 undefined on input line 224.
+
+
+LaTeX Warning: Citation `Tenenbaum2000' on page 6 undefined on input line 227.
+
+[6] [7]
+File: figures/faceEigSpectrum_k=4.eps Graphic file (type eps)
+ <figures/faceEigSpectrum_k=4.eps>
+File: figures/faceEigSpectrum_k=6.eps Graphic file (type eps)
+ <figures/faceEigSpectrum_k=6.eps>
+File: figures/faceEigSpectrum_k=8.eps Graphic file (type eps)
+
+<figures/faceEigSpectrum_k=8.eps>
+File: figures/faceEigSpectrum_k=10.eps Graphic file (type eps)
+ <figures/faceEigSpectrum_k=10.eps> [8]
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 258.
+
+(C:\Users\Jason\code\DimReduce\ISOMAP\README.bbl [9]
+Requested font "cmr17" at 24.88pt
+ -> cmr17
+Requested font "cmbx12" at 24.88pt
+ -> cmbx12
+
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [10
+
+] (C:\Users\Jason\code\DimReduce\ISOMAP\README.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3952 strings out of 429156
+ 50047 string characters out of 3168944
+ 184856 words of memory out of 3000000
+ 7158 multiletter control sequences out of 15000+200000
+ 14974 words of font info for 59 fonts, out of 3000000 for 9000
+ 786 hyphenation exceptions out of 8191
+ 27i,8n,40p,993b,1654s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on README.pdf (12 pages).

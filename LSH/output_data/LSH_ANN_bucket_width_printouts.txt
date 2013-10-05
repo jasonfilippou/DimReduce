@@ -1,0 +1,16 @@
+Data loaded!
+Split performed!
+#Validation examples: 500
+#Testing examples: 500
+Randomly voted 0 times.
+Attained an accuracy of: 0.464 for a bucket width of 4
+Randomly voted 0 times.
+Attained an accuracy of: 0.53 for a bucket width of 5
+Randomly voted 0 times.
+Attained an accuracy of: 0.508 for a bucket width of 6
+Randomly voted 0 times.
+Attained an accuracy of: 0.51 for a bucket width of 7
+Randomly voted 0 times.
+Attained an accuracy of: 0.462 for a bucket width of 8
+Randomly voted 0 times.
+Attained an accuracy of: 0.488 for a bucket width of 9

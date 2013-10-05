@@ -1,0 +1,12 @@
+Data loaded!
+Split performed!
+#Validation examples: 500
+#Testing examples: 500
+Took us 0.0 milliseconds to train the ANN classifier.
+Took us 75.0989999771 milliseconds to train the LSH_ANN classifier.
+For radius = 20600, points found alone: 121
+On the testing data, the ANN classifier achieved an accuracy of: 0.488.
+It took it 161.8349998 milliseconds to test the data.
+Randomly voted 0 times.
+On the testing data, the LSH_ANN classifier achieved an accuracy of: 0.514.
+It took it 7.39600014687 milliseconds to test the data.

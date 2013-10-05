@@ -1,0 +1,10 @@
+clear;
+clc;
+load allMatrices;
+n = size(data, 1);
+cmap = jet(n);
+scatter3(data(:, 1), data(:, 2), data(:, 3), 10, jet(800));
+figure;
+hold off;
+
+mat1 =

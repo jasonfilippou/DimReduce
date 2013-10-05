@@ -1,0 +1,3 @@
+Consider doing rangesearch in addition to knnsearch for a more concrete project.
+
+Need to check those infs in the distance matrix.
